@@ -1,4 +1,4 @@
-# Modbus fuzzer baed on BooFuzz
+# Modbus fuzzer based on BooFuzz
 
 Comming soon....
 
