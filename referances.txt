@@ -1,4 +1,7 @@
 
+Modbus fuzzer
+https://github.com/s-e-knudsen/Modbus_network_fuzzer/tree/main
+
 OPC UA Fuzzer
 https://github.com/claroty/opcua_network_fuzzer
 
